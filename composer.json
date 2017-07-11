@@ -1,0 +1,12 @@
+{
+    "name": "root/boarding-cards",
+    "authors": [
+        {
+            "name": "Mohamed Qabbani",
+            "email": "mohamed.qabbani@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.2"
+    }
+}
